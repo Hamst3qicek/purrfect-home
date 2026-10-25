@@ -1,0 +1,44 @@
+body {
+    background-color:#294638;
+    color: #28352D;
+}
+
+.navbar {
+    background-color: #294638;
+    padding: 12px 24px;
+}
+
+.navbar a {
+    color: #FFFFFF;
+    font-size: 25px;
+}
+
+.card-mensi {
+    overflow: hidden;
+}
+
+.container {
+    padding-top: 24px;
+    padding-bottom: 24px;
+    background-color: #294638;
+}
+
+.card-body {
+    padding: 20px;
+}
+
+.card-title-vetsi {
+    font-size: 40px;
+}
+
+.card-text {
+    font-size: 20px;
+    line-height: 1.6;
+}
+
+.btn-subtle {
+    padding: 8px 14px;
+}
+.card-title {
+    font-size: 25px;
+}
