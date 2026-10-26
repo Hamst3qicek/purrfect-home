@@ -42,3 +42,7 @@ body {
 .card-title {
     font-size: 25px;
 }
+.tlacitko-dole {
+    text-align: center;
+    height: 100px;
+}
