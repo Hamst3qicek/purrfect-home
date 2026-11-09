@@ -1,15 +1,15 @@
 body {
-    background-color:#294638;
-    color: #28352D;
+    background-color:antiquewhite;
+    color: black;
 }
 
 .navbar {
-    background-color: #294638;
+    background-color: antiquewhite;
     padding: 12px 24px;
 }
 
 .navbar a {
-    color: #FFFFFF;
+    color: black;
     font-size: 25px;
 }
 
@@ -20,7 +20,7 @@ body {
 .container {
     padding-top: 24px;
     padding-bottom: 24px;
-    background-color: #294638;
+    background-color: antiquewhite;
 }
 
 .card-body {
